@@ -44,7 +44,6 @@ I have used the UFO sightings dataset from which I created two visualizations us
 ---
 
 ## Interactivity
-
 - For interactivity, I have created a year slider, which on selection will show the listings of different shapes of UFO in different areas of the world for that particular year. This visualisation is a better updated way of displaying UFO sightings since in the bar chart, all year UFO sightings are displayed together, but here, viewer can focus on the UFO sightings from a particular year and can get more information about it like Date, City, State, Country and Shape of that UFO sighting.
 
 ---
