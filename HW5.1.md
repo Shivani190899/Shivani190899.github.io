@@ -2,6 +2,9 @@
 layout: default
 title: "HW5.1 – UFO Sightings with Altair"
 ---
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
 # HW5.1 – UFO Sightings with Altair
 
